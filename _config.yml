@@ -103,5 +103,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/Yi-Ran6/Yi-Ran-s-second-blog
+  repo:  https://github.com/Yi-Ran6/Yi-Ran-s-second-blog.git
   branch: main
